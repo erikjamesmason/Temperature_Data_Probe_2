@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# TRH files
+TSP_Test.ipynb
+tdpdata.db
+df_all.pkl
+TDP_Test2.ipynb
+df_128.pkl
